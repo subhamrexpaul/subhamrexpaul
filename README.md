@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **LeetCode Problems**
+- 🤝 I’m looking for help with **Game DevDevelopment**
 
-- 💬 Ask me about **React, Node.js, MongoDB**
+- 💬 Ask me about **App/Game Development, Blockchain and Web3 technologies**
 
 - 📫 How to reach me **subhamrexpaul@gmail.com**
 
