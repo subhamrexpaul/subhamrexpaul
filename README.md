@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Game DevDevelopment**
+- 🤝 I’m looking for help with **AAA Game Development**
 
-- 💬 Ask me about **App/Game Development, Blockchain and Web3 technologies**
+- 💬 Ask me about **App/Game Dev, Blockchain, Web3 and emerging technologies**
 
 - 📫 How to reach me **subhamrexpaul@gmail.com**
 
